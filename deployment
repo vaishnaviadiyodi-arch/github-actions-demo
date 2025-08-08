@@ -1,0 +1,2 @@
+- name: Deploy (simulated)
+  run: echo "Deploying application..."
